@@ -23,19 +23,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Objetivo foi aprender a desenvolver uma planilha de investimentos utilizando IA. Dentro da pasta de trabalho foram criadas planilha de dados, tabelas dinâmica, encerrando o tema com dashboard.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPD
+MS OFFICE EXCELL
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A planilha foi gerada seguindo passo a passo as orientações do professor.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Finalizado planilha rica em detalhes e de fácil manuseo, usando um planilha de dados, tabelas dinâmicas e dashboard.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Apesar de haver muita informação e detalhes, o desafio desmestificou que a utilização de ferramentas e IA facilitam e enriquecem o trabalho, no entanto, necessário ter dedicação para se inteirar sobre o processo.
 ```
 
 ### Exemplos e Insigths
